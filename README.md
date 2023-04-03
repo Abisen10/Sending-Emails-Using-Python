@@ -59,4 +59,4 @@ A Python Script which we can use to send emails to our friends.
    - from packageName import moduleName
 ## Reference:
 - [Emails](https://www.tutorialspoint.com/python/python_sending_email.htm)
-- [Letsupgrade python essentials](https://community.letsupgrade.in/group/python)
+- [Letsupgrade python essentials](https://community.letsupgrade.in)
