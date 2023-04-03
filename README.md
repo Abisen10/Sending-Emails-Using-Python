@@ -1,4 +1,4 @@
-# Sending-Emails-Using-Python
+#                                                          Sending-Emails-Using-Python
 
 A Python Script which we can use to send emails to our friends.
 
